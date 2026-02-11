@@ -28,7 +28,7 @@
 
 로컬 환경에서의 재현성과 라이브러리 간 충돌 방지를 위해 독립된 가상환경에서 진행
 - **IDE:** Visual Studio Code
-- **Language:** Python 3.10.19
+- **Language:** Python 3.12.10
 - **Version Control:** Git / GitHub
 - **Dependency Tracking:** `requirements.txt`를 통한 버전 고정 및 형상 관리
 ---
